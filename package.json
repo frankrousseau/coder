@@ -3,6 +3,7 @@
         "description": "kid-friendly web programming environment for pi",
         "version": "0.0.1",
         "private": true,
+        "main.js": "server.js",
         "dependencies": {
                 "express": "3.1.0",
                 "redis": "0.8.2",
